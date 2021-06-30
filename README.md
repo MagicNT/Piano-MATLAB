@@ -1,7 +1,7 @@
 # Musical Piano GUI in MATLAB
 
 ## About
-This a musical piano GUI written and implemented on MATLAB.
+This is a musical piano GUI written and implemented on MATLAB.
 
 ## Screenshots
 
